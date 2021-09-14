@@ -5,10 +5,8 @@
 ## Name and Address
 
 Robert Bosch GmbH\
-Corporate Research\
-Robert-Bosch-Campus 1\
-71272
-Renningen\
+Robert-Bosch-Platz 1\
+70839 Gerlingen-Schillerhöhe\
 GERMANY
 
 ## Members of the Board of Management
@@ -19,8 +17,8 @@ Najork
 
 ## Your contact at Robert Bosch GmbH
 
-Sven Trieflinger (Email:
-[sven.trieflinger.ext@de.bosch.com](mailto:sven.trieflinger.ext@de.bosch.com))
+Carbyne Stack Maintainers (Email:
+[rng_cr_carbynestack@bosch.com](mailto:rng_cr_carbynestack@bosch.com))
 
 ## Register Entries
 
