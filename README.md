@@ -17,8 +17,11 @@ Najork
 
 ## Your contact at Robert Bosch GmbH
 
-Carbyne Stack Maintainers (Email:
-[rng_cr_carbynestack@bosch.com](mailto:rng_cr_carbynestack@bosch.com))
+Carbyne Stack Maintainers \
+Email:
+[rng_cr_carbynestack@bosch.com](mailto:rng_cr_carbynestack@bosch.com)) \
+Phone:
++49(711)811-0
 
 ## Register Entries
 
